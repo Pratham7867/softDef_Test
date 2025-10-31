@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+
+@media (max-width:720px) {
+
+    .Home{
+        width: 100%;
+    }
+  
+}
