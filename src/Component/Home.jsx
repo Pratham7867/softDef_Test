@@ -4,7 +4,7 @@ import Trendy from "./Trendy"
 
 function Home() {
   return (
-        <div className="home bg-[url('./fa0765984e44f85e1a04562f820f1492949a1257.jpg')] min-h-[300vh] bg-[position:center_-120px] bg-cover bg-[#1b2316] bg-no-repeat  max-w-screen">
+        <div className="home bg-[url('./BackGround.jpg')] min-h-[300vh] bg-[position:center_-120px] bg-cover bg-[#1b2316] bg-no-repeat  max-w-screen">
             <Navbar/> 
             <div className="Hometext absolute xs:w-50 top-50 left-7 h-50 w-200 " >
                 <h1 className="text-[8vw] text-gray-300 font-[Inter ] ">Earth’s Exhale</h1>
